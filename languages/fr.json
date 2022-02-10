@@ -1,0 +1,65 @@
+{
+  "WildMagicSurge5E.opt_incremental_check_to_chat_name": "Envoyer au chat",
+  "WildMagicSurge5E.opt_incremental_check_to_chat_hint": "Quand activé, à chaque fois qu'un lancé de dé de magie sauvage de type incrémental change, un message sera envoyé dans le chat.",
+
+  "WildMagicSurge5E.opt_incremental_check_to_chat_text_name": "Compteur de Sursaut de Magie SauvageW",
+
+  "WildMagicSurge5E.opt_whisper_gm_name": "Chuchoter les résultats du chat au MJ.",
+  "WildMagicSurge5E.opt_whisper_gm_hint": "Quand activé, tous les messages seront envoyés en tant que jets aveugles de MJ plutôt que depuis le joueur.",
+
+  "WildMagicSurge5E.opt_chat_msg_name": "Message de vérification de Sursaut Magique",
+  "WildMagicSurge5E.opt_chat_msg_hint": "Quand l'automatisation est désactivée, ce message s'affichera dans le chat pour te rappeler quand un sort est lancé.",
+
+  "WildMagicSurge5E.opt_auto_d20_name": "Automatiser Sursaut de Magie Sauvage",
+  "WildMagicSurge5E.opt_auto_d20_hint": "Quand désactivé, cela ignorera toutes les options and les alertes dans le Chat. Quand activé, créera un message dans le chat pour te rappeler de demander un jet.",
+
+  "WildMagicSurge5E.opt_enable_spell_regex_name": "Activer Filtre de Sorts Regex",
+  "WildMagicSurge5E.opt_enable_spell_regex_hint": "Active une vérification du nom du sort pour vérifier s'il s'agit ou non d'un sort d'ensorceleur.",
+
+  "WildMagicSurge5E.opt_spell_regex_name": "Filtre de Sorts Regex",
+  "WildMagicSurge5E.opt_spell_regex_hint": "Le Regex pour différencier entre des sorts d'ensorceleurs et ceux qui ne le sont pas. Cela suppose qu'il faut renommer les sorts d'ensorceleurs comme ceci : 'Projectile Magique (S)'. Les caractères spéciaux doivent être évités !",
+
+  "WildMagicSurge5E.opt_auto_d20_msg_name": "Message de succès de Sursaut de Magie Sauvage",
+  "WildMagicSurge5E.opt_auto_d20_msg_hint": "Montrer ce message lors d'un Sursaut de Magie Sauvage.",
+
+  "WildMagicSurge5E.opt_auto_d20_msg_no_surge_name": "Message d'échec de Sursaut de Magie Sauvage",
+  "WildMagicSurge5E.opt_auto_d20_msg_no_surge_hint": "Montrer ce message lors de l'échec d'un Sursaut de Magie Sauvage.",
+
+  "WildMagicSurge5E.opt_enable_toc_name": "Auto-recharge de Marée du Chaos",
+  "WildMagicSurge5E.opt_enable_toc_hint": "Active la recharge automatique de Marée du Chaos lorsqu'un Sursaut de Magie Sauvage à lieu.",
+
+  "WildMagicSurge5E.opt_rolltable_enabled_name": "Automatiquement lancer la Table aléatoire",
+  "WildMagicSurge5E.opt_rolltable_enabled_hint": "Active le lancement automatique du dé dans la table de Sursaut de Magie Sauvage",
+
+  "WildMagicSurge5E.opt_rolltable_name_name": "Nom de la Table aléatoire",
+  "WildMagicSurge5E.opt_rolltable_name_hint": "Le nom de la Table aléatoire à utiliser quand lancer un effet de Sursaut de Magie Sauvage. Entrez le nom de la Table.",
+
+  "WildMagicSurge5E.opt_custom_roll_dice_formula_name": "Formule de dé",
+  "WildMagicSurge5E.opt_custom_roll_dice_formula_hint": "Mets la formule de dé que tu souhaites lancer. Par défaut il s'agit de 1d20.",
+
+  "WildMagicSurge5E.opt_custom_roll_result_name": "Le résultat recherché du jet de dé",
+  "WildMagicSurge5E.opt_custom_roll_result_hint": "Quel est le résultat nécessaire pour activer le Sursaut de Magie Sauvage. Pour plusieurs valeurs, séparez votre liste de valeurs par une virgule, comme '1, 4, 10'.",
+
+  "WildMagicSurge5E.opt_custom_roll_result_check_name": "Expression booléenne du résultat du jet de dé.",
+  "WildMagicSurge5E.opt_custom_roll_result_check_hint": "Basé sur le résultat recherché du jet de dé, le Sursaut de Magie Sauvage doit se déclencher si le résultat est plus grand/plus petit que le résultat.",
+
+  "WildMagicSurge5E.opt_tsl_die_name": "Formule de dé",
+  "WildMagicSurge5E.opt_tsl_die_hint": "Mets la formule de dé que tu souhaites lancer. Par défaut il s'agit de 1d20.",
+  "WildMagicSurge5E.opt_tsl_lvl1_name": "Niveau 1",
+  "WildMagicSurge5E.opt_tsl_lvl1_hint": "Options du jet en fonction du niveau de sort. Chacun doit commencer soit par un >, < ou = suivi d'un espace et d'un nombre.",
+  "WildMagicSurge5E.opt_tsl_lvl2_name": "Niveau 2",
+  "WildMagicSurge5E.opt_tsl_lvl3_name": "Niveau 3",
+  "WildMagicSurge5E.opt_tsl_lvl4_name": "Niveau 4",
+  "WildMagicSurge5E.opt_tsl_lvl5_name": "Niveau 5",
+  "WildMagicSurge5E.opt_tsl_lvl6_name": "Niveau 6",
+  "WildMagicSurge5E.opt_tsl_lvl7_name": "Niveau 7",
+  "WildMagicSurge5E.opt_tsl_lvl8_name": "Niveau 8",
+  "WildMagicSurge5E.opt_tsl_lvl9_name": "Niveau 9",
+  "WildMagicSurge5E.opt_tsl_lvl10_name": "Niveau 10",
+
+  "WildMagicSurge5E.opt_surge_type_name": "Type de Sursaut de Magie SauvageW",
+  "WildMagicSurge5E.opt_surge_type_hint": "Choisis commment tu souhaites jouer, soit Standard, en fonction du niveau du sort, par jet incrémental ou jet incrémental chaotique. Jet incrémental chaotique : Pour les joueurs et MJ magnifiquement chaotiques. Au lieu de vérifier à chaque fois qu'un sort est lancé, au début de chaque tour de combat, le seuil est augmenté par de '1' jusqu'à un maximum de '10'. Une fois activé, le seuil est réinitialisé à '1'. Jet incrémental : À chaque fois qu'un sort est lancé, le seuil est augmenté de '1'. Une fois activé, le seuil est réinitialisé à '1'. En fonction du niveau du sort : le Sursaut de Magie Sauvage s'active en fonction du niveau du sort (voir options ci-dessous). Dé descendant : S'il n'y a pas de Sursaut avec un dé 20, passe à un d12 puis d10, d8,d6 puis d4 jusqu'à l'activation du Sursaut, puis réinitialise à un d20",
+
+  "WildMagicSurge5E.opt_enable_npcs_name": "Suivre Sursaut de Magie Sauvage pour les PNJs.",
+  "WildMagicSurge5E.opt_enable_npcs_hint": "Activer cette option automatisera le Sursaut de Magie Sauvage pour les personnages non-joueurs comme pour les vrais joueurs."
+}
